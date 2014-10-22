@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="co.ritzonex.dmbj.IndexActivity" >
+
+    <item android:id="@+id/action_mode"/>
+    <item
+        android:id="@+id/action_font_bigger"
+        android:title="@string/action_font_bigger"/>
+    <item
+        android:id="@+id/action_font_smaller"
+        android:title="@string/action_font_smaller"/>
+    <item
+        android:id="@+id/action_screen"
+        android:title="@string/action_screen"/>
+    <item
+        android:id="@+id/action_bookmark"
+        android:title="@string/action_add_bookmark"/>
+
+</menu>

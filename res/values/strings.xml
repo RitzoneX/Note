@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">盗墓笔记</string>
+    <string name="action_bookmark">书签</string>
+    <string name="action_comment">评价</string>
+    <string name="action_screen">全屏</string>
+    <string name="action_add_bookmark">添加书签</string>
+    <string name="action_remove_bookmark">删除书签</string>
+    <string name="action_quit_screen">退出全屏</string>
+    <string name="action_share">分享</string>
+    <string name="title_activity_index">目录</string>
+    <string name="index">目录</string>
+    <string name="book_list">书籍列表</string>
+    <string name="action_font_bigger">增大字体</string>
+    <string name="action_font_smaller">减小字体</string>
+    <string name="action_mode_night">夜间模式</string>
+    <string name="action_mode_day">白天模式</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_bookmark">书签</string>
+    <string name="empty_bookmark">没有书签</string>
+
+</resources>
